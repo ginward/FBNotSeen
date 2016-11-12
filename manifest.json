@@ -12,7 +12,8 @@
   "permissions": [
     "<all_urls>",
     "webRequest",
-    "webRequestBlocking"
+    "webRequestBlocking",
+     "storage"
   ],
   "background": {
     "scripts": ["jQuery.js","background.js"],
